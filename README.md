@@ -4,7 +4,6 @@ Welcome to my GitHub profile! I'm a passionate developer who loves coding, learn
 
 ## 🚀 About Me
 
-Me
 
 - 🔭 **Currently Working On**: Building modern web applications using **Remix.js**.
 - 🌱 **Currently Learning**: Expanding my skills in **Python for backend development and automation**.
